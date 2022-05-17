@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\bin\Debug\WF-Exercicio.exe.config
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\bin\Debug\WF-Exercicio.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\bin\Debug\WF-Exercicio.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF_Exercicio.Form1.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF_Exercicio.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\ConexaoBD\Aula1CSharpBD\WF-Exercicio\obj\Debug\WF-Exercicio.pdb
